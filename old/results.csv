@@ -267,3 +267,5 @@ sol_per_pop,num_parents_mating,num_generations,keep_parents,parent_selection_typ
 1000,200,10000,10,sss,single_point,random,4,45,-2,12.504730224609375
 1000,200,10000,10,sss,single_point,random,4,45,-3,7.996342897415161
 1000,200,10000,10,sss,single_point,random,4,45,-5,10.441853761672974
+200,200,1000,10,sss,single_point,random,4,45,-19,30.001579999923706
+200,200,1000,10,sss,single_point,random,4,45,-21,24.86996603012085
