@@ -102,3 +102,4 @@ sol_per_pop,num_parents_mating,num_generations,keep_parents,parent_selection_typ
 500,25,10000,10,rank,uniform,random,4,45,-2,616.8559417724609,reach_0
 500,25,10000,10,rank,uniform,random,4,45,-2,615.9471940994263,reach_0
 500,25,10000,10,rank,uniform,random,4,45,-2,614.9768431186676,reach_0
+500,25,10000,10,rank,uniform,random,4,45,-3,618.0274479389191,reach_0
