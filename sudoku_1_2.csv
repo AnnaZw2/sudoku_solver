@@ -1,5 +1,4 @@
 sol_per_pop,num_parents_mating,num_generations,keep_parents,parent_selection_type,crossover_type,mutation_type,mutation_percent_genes,num_genes,solution_fitness,duration,stop_criteria,sudoku_board_name
-
 500,25,10000,10,rank,uniform,random,4,45,-3,7.40303897857666,saturate_50,sudoku2
 500,25,10000,10,rank,uniform,random,4,45,-4,9.503385066986084,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-4,6.833794116973877,saturate_50,sudoku1
@@ -95,11 +94,11 @@ sol_per_pop,num_parents_mating,num_generations,keep_parents,parent_selection_typ
 500,25,10000,10,rank,uniform,random,4,45,-5,5.35250186920166,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-7,6.421736001968384,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-6,6.49390983581543,saturate_50,sudoku2
+500,25,5000,10,rank,uniform,random,4,45,-5,10.086312055587769,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-3,6.979968070983887,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-4,12.560998916625977,saturate_50,sudoku2
 500,25,10000,10,rank,uniform,random,4,45,-5,9.53885793685913,saturate_50,sudoku1
 500,25,10000,10,rank,uniform,random,4,45,-3,5.5484302043914795,saturate_50,sudoku2
-500,25,10000,10,rank,uniform,random,4,45,-4,11.938359022140503,saturate_50,sudoku2
 1500,25,10000,10,rank,uniform,random,4,45,-4,24.679353952407837,saturate_50,sudoku1
 1500,25,10000,10,rank,uniform,random,4,45,-5,15.142308235168457,saturate_50,sudoku2
 1500,25,10000,10,rank,uniform,random,4,45,-3,17.769715070724487,saturate_50,sudoku1
@@ -200,3 +199,4 @@ sol_per_pop,num_parents_mating,num_generations,keep_parents,parent_selection_typ
 1500,25,10000,10,rank,uniform,random,4,45,-4,16.4413480758667,saturate_50,sudoku2
 1500,25,10000,10,rank,uniform,random,4,45,-2,17.64888906478882,saturate_50,sudoku1
 1500,25,10000,10,rank,uniform,random,4,45,-4,17.011373043060303,saturate_50,sudoku2
+1500,25,10000,10,rank,uniform,random,4,45,-2,16.240016222000122,saturate_50,sudoku2
